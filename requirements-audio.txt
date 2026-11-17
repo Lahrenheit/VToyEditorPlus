@@ -1,0 +1,4 @@
+# OPTIONAL - plays .ogg music inside the editor. Install by hand if your Python has a wheel for it:
+#   pip install pygame-ce        (or: pip install pygame)
+# Without it the editor still plays .wav on Windows and shows what is missing for .ogg.
+pygame-ce
