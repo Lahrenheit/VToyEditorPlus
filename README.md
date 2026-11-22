@@ -1,5 +1,10 @@
 # <img src="https://raw.githubusercontent.com/Lahrenheit/VToyEditorPlus/refs/heads/master/vtoy.png" width="50" height="50"/> VToyEditor Plus+
 
+![Stars](https://img.shields.io/github/stars/Lahrenheit/VToyEditorPlus?style=flat&label=Stars&color=ff69b4) ![Forks](https://img.shields.io/github/forks/Lahrenheit/VToyEditorPlus?style=flat&label=Forks&color=orange) ![Watchers](https://img.shields.io/github/watchers/Lahrenheit/VToyEditorPlus?style=flat&label=Watchers&color=blue)
+![Tamaño del repo](https://img.shields.io/github/repo-size/Lahrenheit/VToyEditorPlus?style=flat) ![Última versión](https://img.shields.io/github/v/release/Lahrenheit/VToyEditorPlus?style=flat&color=success)
+![Descargas totales](https://img.shields.io/github/downloads/Lahrenheit/VToyEditorPlus/total?style=flat&color=blue) [![Donate](https://tinyurl.com/2fjj49ru)](http://tinyurl.com/lahrenheit)
+
+
 **English** · [Español](#español) · [Português](#português)
 
 Map and scene editor for **Torrente Online** (Virtual Toys engine). It is based on Patoke's VToyEditor and made by **Lahrenheit**.
