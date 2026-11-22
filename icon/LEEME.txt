@@ -1,0 +1,4 @@
+vtoy.ico / vtoy.png = the editor's icon (a white V with an orange +). build_exe.bat uses the first .ico of this folder for
+the .exe, and the editor uses it for the window and the taskbar.
+To use your own: delete vtoy.ico / vtoy.png and put yours here (.ico, or .png). With no file at all the editor draws its
+own icon anyway, so the taskbar is never blank.
