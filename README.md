@@ -4,6 +4,8 @@
 
 Map and scene editor for **Torrente Online** (Virtual Toys engine). It is based on Patoke's VToyEditor and made by **Lahrenheit**.
 
+For new custom maps (From Counter-Strike 1.6 and Torrente El Juego) check https://github.com/Lahrenheit/TorrenteOnlineCustomMaps
+
 📘 **User manual (PDF)** — [English](docs/Manual_VToyEditorPlus_en.pdf) · [Español](docs/Manual_VToyEditorPlus_es.pdf) · [Português](docs/Manual_VToyEditorPlus_pt.pdf). Each one has a clickable index and covers every function, plus step-by-step map creation. Also in the editor: *Help → User manual (PDF)*.
 🗒️ **Technical history of every change (Spanish):** [docs/CHANGELOG.md](docs/CHANGELOG.md)
 ⬇️ **Downloads / new versions:** https://github.com/Lahrenheit/VToyEditorPlus/releases
