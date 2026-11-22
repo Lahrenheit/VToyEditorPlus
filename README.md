@@ -1,4 +1,4 @@
-# VToyEditor Plus+
+# <img src="https://raw.githubusercontent.com/Lahrenheit/VToyEditorPlus/refs/heads/master/vtoy.png" width="50" height="50"/> VToyEditor Plus+
 
 **English** · [Español](#español) · [Português](#português)
 
